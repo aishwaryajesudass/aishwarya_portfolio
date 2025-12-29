@@ -1055,7 +1055,7 @@
               display: none;
             }
             .logos{
-               display: none;
+              display:flex;
             }
             
          body{
